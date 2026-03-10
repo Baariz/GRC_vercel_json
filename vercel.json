@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://vqy32cfs5fzw56-3000.proxy.runpod.net/$1"
+    }
+  ]
+}
