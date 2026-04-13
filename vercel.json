@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://ufmrghpnn0u8vf-3000.proxy.runpod.net/$1"
+      "destination": "http://64.227.153.180:3000/$1"
     }
   ]
 }
